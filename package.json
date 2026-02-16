@@ -1,0 +1,9 @@
+{
+  "name": "peg-parser",
+  "version": "1.0.0",
+  "description": "A simple PEG parser combinator library in JavaScript",
+  "main": "peg_parser.js",
+  "scripts": {
+    "test": "node test_parser.js"
+  }
+}
